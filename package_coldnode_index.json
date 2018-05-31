@@ -3,7 +3,7 @@
   [
     {
       "name":"ColdNode",
-      "maintainer":"ColdNode GmbH",
+      "maintainer":"ColdNode",
       "websiteURL":"https://www.coldnode.com",
       "email":"contact@coldnode.com",
       "help":
@@ -14,10 +14,10 @@
       "platforms":
       [
         {
-          "name":"ColdNode_Rev.1",
+          "name":"ColdNode Rev.1",
           "architecture":"msp430",
           "version":"1.0",
-          "category":"panStamp NRG",
+          "category":"ColdNode Rev.1",
           "url":"https://www.coldnode.com/Rev.1_1.0.tar.gz",
           "archiveFileName":"Rev.1_1.0.tar.gz",
           "checksum":"SHA-256:A371FD6DE22AD81FC2578FDA044E29B69DF8E1EFD57C67CD6FFCF9D504A2B2C7",
@@ -35,17 +35,17 @@
           "toolsDependencies":
           [
             {
-              "packager":"ColdNode_Rev.1",
+              "packager":"panstamp_nrg",
               "name":"msp430-gcc",
               "version":"4.6.3"
             },
             {
-              "packager":"ColdNode_Rev.1",
+              "packager":"panstamp_nrg",
               "name":"java-bsl",
               "version":"1.0.0"
             },
             {
-              "packager":"ColdNode_Rev.1",
+              "packager":"panstamp_nrg",
               "name":"java-gdb",
               "version":"1.0.0"
             }
@@ -128,7 +128,7 @@
     },
     {
       "name":"ColdNode",
-      "maintainer":"ColdNode GmbH",
+      "maintainer":"ColdNode",
       "websiteURL":"http://www.coldnode.com",
       "email":"contact@coldnode.com",
       "help":
@@ -138,10 +138,10 @@
       "platforms":
       [
         {
-          "name":"ColdNode_Rev.2",
-          "architecture":"avr",
+          "name":"ColdNode Rev.2",
+          "architecture":"msp430",
           "version":"1.0.0",
-          "category":"ColdNode_Rev.2",
+          "category":"ColdNode Rev.2",
           "url":"https://github.com/panStamp/arduino_nrg/archive/Rev.2_1.0.tar.gz",
           "archiveFileName":"Rev.2_1.0.tar.gz",
           "checksum":"SHA-256:A371FD6DE22AD81FC2578FDA044E29B69DF8E1EFD57C67CD6FFCF9D504A2B2C7",
