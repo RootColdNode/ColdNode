@@ -43,11 +43,6 @@
               "packager":"ColdNode_Rev.1",
               "name":"java-bsl",
               "version":"1.0.0"
-            },
-            {
-              "packager":"ColdNode_Rev.1",
-              "name":"java-gdb",
-              "version":"1.0.0"
             }
           ]
         }
@@ -166,11 +161,6 @@
             {
               "packager":"ColdNode_Rev.2",
               "name":"java-bsl",
-              "version":"1.0.0"
-            },
-            {
-              "packager":"ColdNode_Rev.2",
-              "name":"java-gdb",
               "version":"1.0.0"
             }
           ]
