@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name":"ColdNode",
+      "name":"ColdNode_Rev.1",
       "maintainer":"ColdNode",
       "websiteURL":"https://www.coldnode.com",
       "email":"contact@coldnode.com",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name":"ColdNode",
+      "name":"ColdNode_Rev.2",
       "maintainer":"ColdNode",
       "websiteURL":"http://www.coldnode.com",
       "email":"contact@coldnode.com",
