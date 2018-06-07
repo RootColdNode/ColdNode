@@ -8,7 +8,7 @@
       "email":"contact@coldnode.com",
       "help":
       {
-        "online":"http://www.coldnode.com/forum"
+        "online":"https://www.coldnode.com/forums"
       },
 
       "platforms":
@@ -16,12 +16,12 @@
         {
           "name":"ColdNode Rev.1",
           "architecture":"msp430",
-          "version":"1.0",
+          "version":"1.1",
           "category":"ColdNode Rev.1",
-          "url":"https://www.coldnode.com/Rev.1_1.0.tar.gz",
-          "archiveFileName":"Rev.1_1.0.tar.gz",
-          "checksum":"SHA-256:DF7B0637C1B9A4D3D3B4267C93B1BE00A6408014C43414424E5392FE6E37E610",
-          "size":"6316501",
+          "url":"http://libraries.coldnode.com/Rev.1_1.1.tar.gz",
+          "archiveFileName":"Rev.1_1.1.tar.gz",
+          "checksum":"SHA-256:B8B4F89D2D2F07E04990EEF7AC62B7D0C9F6D3DD3C846D1254FFFA3E300D5677",
+          "size":"6314466",
           "help":
           {
             "online":"https://github.com/RootColdNode/coldnode/wiki"
